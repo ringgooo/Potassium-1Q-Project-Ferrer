@@ -1,0 +1,136 @@
+body {
+    background-color: rgb(255, 244, 230);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.header {
+    display:flex;
+}
+
+.header img {
+    width: 10000px;
+    height: 500px;
+    border: solid; color: rgb(19, 99, 6);
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    text-align: 100px;
+    align-items: center;
+    gap: 50px;
+}
+
+.header1 {
+    font-size: larger;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(19, 99, 6);
+}
+
+.text p {
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin-left: 10px;
+    align-items: center;
+    text-align: center;
+    font-size: larger;
+}
+
+.line {
+    border: solid 1px; color: rgb(19, 99, 6);
+}
+
+.block {
+    margin-top: 15px;
+    height: 25px;
+    width: 1250px;
+    background-color: rgb(19, 99, 6);
+}
+
+.header2 {
+    font-size: larger;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    background-color: rgb(19, 99, 6);
+}
+
+.topic{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    align-items: auto;
+    gap: 20px;
+}
+
+.topic img {
+    width: 350px;
+    height: 350px;
+    border: solid; color: rgb(19, 99, 6);
+    
+}
+
+.image p {
+    width: 350px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+    font-size: large;
+}
+
+.header3 {
+    font-size: larger;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    background-color: rgb(19, 99, 6);
+
+}
+
+.phrase p{
+    display:flex;
+    justify-content: center;
+    margin: auto ;
+    margin-left: 380px;
+    font-size: large;
+}
+
+.phrase p {
+    width: 500px;
+    text-align: center;
+    align-items: center;
+}
+
+.header4 { 
+    font-size: large;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(19, 99, 6);
+}
+
+.schedule {
+    display:flex;
+    justify-content: center;
+}
+
+.reference {
+    margin-top: 100px;
+    margin-left: 20px;
+    color: rgb(19, 99, 6)
+}
+
+.source {
+    margin-top: 30px;
+    margin-left: 20px;
+    color:black;
+}
+
